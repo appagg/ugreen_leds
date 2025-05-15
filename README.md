@@ -24,13 +24,13 @@
    Get the latest release:  
    [ugreen_leds_cli](https://github.com/miskcoo/ugreen_leds_controller/releases/download/v0.1-debian12/ugreen_leds_cli)
 
-   Get the ug_leds.en.sh script from this repo.
+   Get the ug_leds_en.sh script from this repo.
 
 5. **Folder Setup**  
    Create this structure (replace `xxxx` with your username):  
    ```
    /volume1/homes/xxxx/ugreen_leds/
-   ├── ug_leds.en.sh  
+   ├── ug_leds_en.sh  
    └── ugreen_leds_cli
    ```
 
